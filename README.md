@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sude Esmer 👋 </h1>
-<h3 align="center">I am a student with a passion for cybersecurity</h3>
+
 
 
 - 📫 How to reach me **sudesmer001@gmail.com**
