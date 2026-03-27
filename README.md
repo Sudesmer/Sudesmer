@@ -63,11 +63,25 @@ My approach combines:
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,nestjs,docker,mongodb,postgres,git,github,linux,figma,vscode" />
-</p>
 
-<p align="center">
-  Python • Java • JavaScript • HTML • CSS • React • Next.js • Node.js • NestJS • Docker • MongoDB • PostgreSQL • Git • GitHub • Linux • Figma • VS Code
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" title="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-082f49?style=for-the-badge&logo=javascript&logoColor=yellow" title="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-0c4a6e?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/>
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61dafb" title="React"/>
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-082f49?style=for-the-badge&logo=node.js&logoColor=green" title="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-0c4a6e?style=for-the-badge&logo=nestjs&logoColor=red" title="NestJS"/>
+<img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ed" title="Docker"/>
+<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47a248" title="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791" title="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git-082f49?style=for-the-badge&logo=git&logoColor=orange" title="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0c4a6e?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=yellow" title="Linux"/>
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=orange" title="Figma"/>
+<img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" title="VS Code"/>
+
 </p>
 
 ---
