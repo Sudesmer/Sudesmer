@@ -48,25 +48,3 @@ I build projects that combine:
 [+] Building a strong technical portfolio
 
 ---
-
-## 🛡️ Cybersecurity Scope
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SOC%20Mindset-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Threat%20Detection-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Log%20Analysis-082f49?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0c4a6e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Attack%20Analysis-1e293b?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧩 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,nestjs,docker,mongodb,postgres,git,github,linux,figma,vscode" />
-
-</div>
