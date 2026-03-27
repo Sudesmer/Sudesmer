@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a Management Information Systems graduate focused on **cybersecurity**, **computer vision**, and **hands-on technical projects**.
 
