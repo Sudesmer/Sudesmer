@@ -26,36 +26,36 @@
 
 ## ⚡ About Me
 
-I am a Management Information Systems graduate focused on **cybersecurity**, **computer vision**, and **hands-on technical projects**.
+I focus on building practical systems in **cybersecurity**, **computer vision**, and **hands-on development**.
 
-I build projects that combine:
+My approach combines:
 
-- detection-oriented security thinking
-- Python-based experimentation
-- computer vision logic
-- full-stack development
-- clean and usable systems
+- detection-oriented security thinking  
+- Python-based experimentation  
+- computer vision logic  
+- full-stack development  
+- clean and usable system design  
 
 ---
 
 ## ⚡ Current Focus
 
-- Cybersecurity fundamentals & attack analysis
-- Detection logic and security mindset
-- Computer vision experiments (Python)
-- Full-stack project development
-- Building a strong technical portfolio
+- Cybersecurity fundamentals & attack analysis  
+- Detection logic and security mindset  
+- Computer vision experiments (Python)  
+- Full-stack project development  
+- Building a strong technical portfolio  
 
 ---
 
 ## 🛡️ Cybersecurity Scope
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Mindset-020617?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-082f49?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0c4a6e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Attack%20Analysis-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC%20Mindset-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-082f49?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0c4a6e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attack%20Analysis-1e293b?style=for-the-badge"/>
 </p>
 
 ---
@@ -64,6 +64,10 @@ I build projects that combine:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,nestjs,docker,mongodb,postgres,git,github,linux,figma,vscode" />
+</p>
+
+<p align="center">
+  Python • Java • JavaScript • HTML • CSS • React • Next.js • Node.js • NestJS • Docker • MongoDB • PostgreSQL • Git • GitHub • Linux • Figma • VS Code
 </p>
 
 ---
@@ -84,13 +88,13 @@ I build projects that combine:
 ## 🚀 Projects
 
 - **Computer Vision Projects**  
-  Real-time interaction, gesture tracking, and visual experiments.
+  Real-time interaction, gesture tracking, and visual experimentation.
 
-- **Cybersecurity Learning Labs**  
-  Attack analysis, detection logic, and structured notes.
+- **Cybersecurity Labs**  
+  Attack analysis, detection logic, and structured security notes.
 
 - **Full-Stack Applications**  
-  UI + backend systems built together with real use cases.
+  End-to-end systems with real-world use cases.
 
 ---
 
