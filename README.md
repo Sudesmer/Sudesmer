@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;Detection+Mindset+%7C+Project+Builder;Python+%7C+Computer+Vision+%7C+Web+Development;Building+clean+and+practical+projects" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
 </p>
 
 <p>
@@ -21,3 +21,28 @@
 </p>
 
 </div>
+
+---
+
+## 🧠 About Me
+
+I am a Management Information Systems graduate focused on **cybersecurity**, **computer vision**, and **hands-on technical projects**.
+
+I build projects that combine:
+
+- detection-oriented security thinking  
+- Python-based experimentation  
+- computer vision logic  
+- full-stack development  
+- clean and usable systems  
+
+---
+
+## ⚡ Current Focus
+
+```text
+[+] Cybersecurity fundamentals & attack analysis
+[+] Detection logic and security mindset
+[+] Computer vision experiments (Python)
+[+] Full-stack project development
+[+] Building a strong technical portfolio
