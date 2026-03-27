@@ -46,5 +46,3 @@ I build projects that combine:
 [+] Computer vision experiments (Python)
 [+] Full-stack project development
 [+] Building a strong technical portfolio
-
----
