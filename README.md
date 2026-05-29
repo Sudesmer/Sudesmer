@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0b1120,70:111827,100:1e293b&text=MERGEN&fontSize=48&fontColor=e5e7eb&fontAlignY=36&desc=Detection%20Engineering%20%E2%80%A2%20Threat%20Analysis%20%E2%80%A2%20Cybersecurity%20Projects&descAlignY=58&descSize=17" />
