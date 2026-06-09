@@ -1,5 +1,12 @@
 <div align="center">
 
+# Learn Everything
 
+### But Don't Use Everything
 
-## Learn everything, but don’t use everything ##
+<br>
+
+> Knowledge is power.  
+> Judgment is knowing when **not** to use it.
+
+</div>
